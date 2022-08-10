@@ -1,8 +1,8 @@
-Hi, my name is Steve Rawlings @G4ALG
+My name is Steve Rawlings (G4ALG) and I live in Lydney, England.
 
 I’m interested in developing Arduino projects and am currently learning C++ and how to make best use of the Arduino Nano.
 
-I’m looking to collaborate with the development of a radio frequency (RF) digitally synthesised (DDS) variable frequency oscillator (VFO) for use in amateur radio transmitters.
+I'd be pleased to collaborate with others with an interest in developing digitally synthesised (DDS) variable frequency oscillators (VFOs) for use in amateur radio transmitters.
 
 
 <!---
